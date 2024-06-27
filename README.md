@@ -52,10 +52,10 @@ This repository contains a basic authentication system built using Django. The s
 
 ## Usage
 
-- **Login**: Navigate to `/accounts/login` to access the login page.
-- **Signup**: Navigate to `/accounts/signup` to access the signup page.
+- **Login**: Navigate to `/accounts/login/` to access the login page.
+- **Signup**: Navigate to `/accounts/signup/` to access the signup page.
 - **Change Password**: Navigate to `/accounts/password_change/` (available after logging in).
-- **Reset Password**: Navigate to `accounts/password_reset/` to reset your password.
+- **Reset Password**: Navigate to `/accounts/password_reset/` to reset your password.
 
 ## Contributing
 
