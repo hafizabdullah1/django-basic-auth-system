@@ -12,6 +12,9 @@ urlpatterns = [
 ]
 
 
+
+
+# default routes
 # accounts/login/ [name='login']
 # accounts/logout/ [name='logout']
 # accounts/password_change/ [name='password_change']
