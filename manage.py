@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# Tutorial link
+# https://learndjango.com/tutorials/django-login-and-logout-tutorial#log-in-page
